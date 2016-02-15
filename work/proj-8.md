@@ -1,5 +1,5 @@
 ---
-title: "Stripes & Co"
+title: Sunset
 ---
 
-![Stripes & Co](assets/img/work/proj-8/stripes-co-NickZoutendijk.jpg)
+![Sunset](assets/img/work/proj-8/img1.jpg)

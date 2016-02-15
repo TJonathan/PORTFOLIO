@@ -1,5 +1,5 @@
 ---
-title: Timeline Page
+title: Orange flowers
 ---
 
-![Timeline Page](assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg)
+![Orange flowers](assets/img/work/proj-6/img1.jpg)

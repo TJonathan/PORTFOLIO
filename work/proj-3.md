@@ -1,5 +1,5 @@
 ---
-title: Crispy Icons
+title: Busy Kuala
 ---
 
-![Crispy Icons](assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![Kuala hanging](assets/img/work/proj-3/img1.jpg)

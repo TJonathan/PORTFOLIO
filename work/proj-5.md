@@ -1,5 +1,5 @@
 ---
-title: Fresh It Up
+title: BMX
 ---
 
-![Fresh It Up](assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![BMX](assets/img/work/proj-5/img1.jpg)

@@ -1,5 +1,5 @@
 ---
-title: City In Website Concept
+title: Bird love
 ---
 
-![City In](assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![Bird love](assets/img/work/proj-2/img1.jpg)
