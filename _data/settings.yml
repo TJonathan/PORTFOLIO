@@ -19,9 +19,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Jonathan's Photography Portfolio'
-  rel-author: 'https://tjonathan.github.io/Portfolio'
-  rel-publisher: 'https://tjonathan.github.io/Portfolio'
+  description: "Jonathan's Photography Portfolio."
+  rel-author: 'http://tjonathan.github.io/Portfolio/'
+  rel-publisher: 'http://tjonathan.github.io/Portfolio/'
 
 #-------------------------------
 # Google Analytics Section
@@ -34,7 +34,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Jonathan specializes in making things happen.** He is always willing to learn from the best and share his knowledge. His different point of view makes his work even more unique. 
+  **Jonathan specializes in making things happen.** He is always willing to learn from the best and share his knowledge. His different point of view makes his work even more unique.
 
 
 skills:
