@@ -19,17 +19,12 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Jonathan's Photography Portfolio'
+  rel-author: 'https://tjonathan.github.io/Portfolio'
+  rel-publisher: 'https://tjonathan.github.io/Portfolio'
 
 #-------------------------------
 # Google Analytics Section
-
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 #google-analytics-ua: UA-XXXXXX-X
 
@@ -56,7 +51,7 @@ skills:
 projects:
 - {name: Swan double trouble, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Bird love, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Kuala hanging, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Koala hanging, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Catch me if you can, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: BMX, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Orange flowers, folder: 'proj-6', file: 'work/proj-6.html'}
