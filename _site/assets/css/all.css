@@ -609,7 +609,7 @@ h3, footer .lockup .content-wrap a {
 header {
   position: relative;
   height: 600px;
-  background-image: url(/assets/img/back-leaf.jpg);
+  background-image: url(/Portfolio/assets/img/back-leaf.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -619,7 +619,7 @@ header {
 .fore-leaf {
   height: 700px;
   width: 100%;
-  background-image: url(/assets/img/fore-leaf.png);
+  background-image: url(/Portfolio/assets/img/fore-leaf.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute; }
@@ -627,12 +627,12 @@ header {
 .mylogo {
   height: 110px;
   width: 100%;
-  background-image: url(/assets/img/mylogo.svg);
+  background-image: url(/Portfolio/assets/img/mylogo.svg);
   background-position: center;
   background-repeat: no-repeat;
   position: absolute;
   top: 50%;
-  margin-top: -120px; }
+  margin-top: -90px; }
 
 footer {
   background: url(../img/hero-bg.jpg) center bottom;

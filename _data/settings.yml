@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
 
-#title: Jonathan's Photography
+title: Jonathan's Photography
 #description: Designer // Photographer
 email: jtsodik@gmail.com
-header-name: Jonathan's<br>Photography
+#header-name: Jonathan's<br>Photography
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
