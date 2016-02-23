@@ -1,68 +1,32 @@
 header
-  //background image
-  background: url(../img/hero-bg.jpg) center top
-  background-size: cover
-  box-shadow: 0px 2px 21px 1px rgba(0,0,0,0.74)
-  padding-bottom: 70px
+  position: relative
+  height: 600px
+  background:
+    image: url(/assets/img/back-leaf.jpg)
+    size: cover
+    repeat: no-repeat
+    attachment: fixed
+  overflow: hidden
+  box-shadow: 0px 9px 18px -3px rgba(0,0,0,0.75)
 
-  .logo
-    height: 60px
-    width: 100px
-    float: left
-    margin: 10px 0 0 30px
+.fore-leaf
+  height: 700px
+  width: 100%
+  background:
+    image: url(/assets/img/fore-leaf.png)
+    repeat: no-repeat
+    size: cover
+  position: absolute
 
-  path
-    fill: rgba(0,0,0,0.4)
-
-  nav
-    float: right
-    padding: 30px 50px 0 0
-    a
-      display: inline-block
-      margin-left: 20px
-      color: rgba(225,225,225,0.6)
-      @extend %small-bold
-      text-decoration: none
-
-      &:hover
-        color: rgba(225,225,225,0.9)
-
-  h1
-    text-align: center
-    font:
-      size: 72px
-      weight: 700
-    color: white
-    text-transform: uppercase
-    letter-spacing: 0.02em
-    margin-bottom: 20px
-    clear: both
-    padding-top: 100px
-
-    span
-      display: inline-block
-      padding: 0.2em 0.5em
-      border: white solid 10px
-
-  .kicker
-    @extend %small-bold
-    text-align: center
-    letter-spacing: 0.05em
-    color: white
-    line-height: 1
+.mylogo
+  height: 110px
+  width: 100%
+  background:
+    image: url(/assets/img/mylogo.svg)
+    position: center
+    repeat: no-repeat
+  position: absolute
+  top: 50%
+  margin-top: -120px
 
 @media (max-width: 640px)
-  header
-    .logo
-      float: none
-      margin: auto
-      padding-top: 20px
-      padding-bottom: 20px
-
-    nav
-      float: none
-      text-align: center
-      padding-top: 20px
-
-    h1
-      padding-top: 0px

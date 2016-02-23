@@ -368,3 +368,10 @@ function  workLoad() {
 		});
 	};
 }(jQuery || $)); // jQuery or jQuery-like library, such as Zepto
+
+$(window).scroll(function() {
+	var wScroll = $(this).scrollTop();
+	$('.mylogo').css({
+		'transform' : 'translate(0px, '+ wScroll /2 +'%)'
+	});
+});
